@@ -1,0 +1,16 @@
+<dependencies>
+  <compile
+      roots="C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3@@:unityLibrary::release">
+    <dependency
+        name="C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3@@:unityLibrary::release"
+        simpleName="TL3:unityLibrary"/>
+  </compile>
+  <package
+      roots="C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3@@:unityLibrary::release,__local_aars__:C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3\unityLibrary\libs\unity-classes.jar:unspecified@jar">
+    <dependency
+        name="C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3@@:unityLibrary::release"
+        simpleName="TL3:unityLibrary"/>
+    <dependency
+        name="__local_aars__:C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3\unityLibrary\libs\unity-classes.jar:unspecified@jar"/>
+  </package>
+</dependencies>

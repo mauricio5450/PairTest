@@ -30,7 +30,8 @@ public class ShipControls : MonoBehaviour
     // Update is called once per frame
     private void Update()
     {
-        transform.rotation = GyroToUnity(Input.gyro.attitude);
+        transform.rotation = new Quaternion(Input.gyro.attitude.x, Input.gyro.attitude.y, 0, 0);
+
         //Sets the forward movement
         rb2d.velocity = (Vector2)transform.up * movementVector.y * maxSpeed * Time.fixedDeltaTime;
         //Sets the rotational movement

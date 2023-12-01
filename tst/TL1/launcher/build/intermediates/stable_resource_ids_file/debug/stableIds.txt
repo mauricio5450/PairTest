@@ -1,0 +1,15 @@
+com.DefaultCompany.CorsairClash:style/UnityThemeSelector = 0x7f040001
+com.DefaultCompany.CorsairClash:style/UnityThemeSelector.Translucent = 0x7f040002
+com.DefaultCompany.CorsairClash:style/BaseUnityTheme = 0x7f040000
+com.DefaultCompany.CorsairClash:string/FreeformWindowSize_maximize = 0x7f030002
+com.DefaultCompany.CorsairClash:string/FreeformWindowOrientation_landscape = 0x7f030000
+com.DefaultCompany.CorsairClash:string/FreeformWindowSize_tablet = 0x7f030004
+com.DefaultCompany.CorsairClash:string/FreeformWindowSize_phone = 0x7f030003
+com.DefaultCompany.CorsairClash:string/FreeformWindowOrientation_portrait = 0x7f030001
+com.DefaultCompany.CorsairClash:mipmap/app_icon = 0x7f020000
+com.DefaultCompany.CorsairClash:mipmap/app_icon_round = 0x7f020001
+com.DefaultCompany.CorsairClash:mipmap/ic_launcher_foreground = 0x7f020003
+com.DefaultCompany.CorsairClash:string/game_view_content_description = 0x7f030006
+com.DefaultCompany.CorsairClash:mipmap/ic_launcher_background = 0x7f020002
+com.DefaultCompany.CorsairClash:string/app_name = 0x7f030005
+com.DefaultCompany.CorsairClash:id/unitySurfaceView = 0x7f010000

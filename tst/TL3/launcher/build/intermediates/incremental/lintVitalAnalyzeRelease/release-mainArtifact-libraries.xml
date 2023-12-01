@@ -1,0 +1,19 @@
+<libraries>
+  <library
+      name="C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3@@:unityLibrary::release"
+      jars="C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3\unityLibrary\build\.transforms\5da96625ef4624ecee547d47bc1c8284\transformed\out\jars\classes.jar;C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3\unityLibrary\build\.transforms\5da96625ef4624ecee547d47bc1c8284\transformed\out\jars\libs\unity-classes.jar"
+      resolved="TL3:unityLibrary:unspecified"
+      folder="C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3\unityLibrary\build\.transforms\5da96625ef4624ecee547d47bc1c8284\transformed\out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="__local_aars__:C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\mauri\SchoolStuff\Fall Junior\cs383\test\tst\TL3\unityLibrary\libs\unity-classes.jar:unspecified"/>
+</libraries>

@@ -1,0 +1,4 @@
+#Thu Nov 30 16:54:45 PST 2023
+base.0=C\:\\Users\\mauri\\SchoolStuff\\Fall Junior\\cs383\\test\\tst\\TL4\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
