@@ -4,11 +4,17 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
+    public static GameManager instance;
     public GameObject battleButton;
+    public bool isPressed = false;
 
     // Start is called before the first frame update
     void Start()
     {
+        //Makes sure only one instance is active
+        if (instance == null){
+            instance = this;
+        }   
         battleButton.SetActive(false);
     }
 
