@@ -60,7 +60,7 @@ public class CrabManager : BattleManager
     //This method overrides the BattleManager change scene to be the Overworld Map after the boss battle.
     public override void ChangeScene()
     {
-        base.ChangeScene();
+        //base.ChangeScene();
         SceneManager.LoadScene("postcrabfinalscene");
     }
 }
